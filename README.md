@@ -15,7 +15,7 @@ This report delves into the analysis of a hotel reservation dataset, aiming to u
 trends that can drive operational efficiency and boost guest satisfaction. Through SQL queries, 
 we extracted valuable insights regarding booking trends, guest preferences, and key operational metrics.
 
-## Dataset Overiew
+## Dataset Overview
 The dataset used in this analysis consists of 700 rows and 12 columns, capturing various aspects of hotel reservations, including:
 - Booking_ID: Unique identifier for each reservation.
 - no_of_adults: Number of adults in the reservation.
