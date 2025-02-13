@@ -4,9 +4,9 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Dataset Overview](#DatasetOverview)
-- [Data Cleaning and Tranformation](#DataCleaningandTransformation)
-- [SQL Analysis and Insights](#SQLAnalysisandInsights)
+- [Dataset Overview](#Dataset-Overview)
+- [Data Cleaning and Tranformation](#Data-Cleaning-and-Transformation)
+- [SQL Analysis and Insights](#SQL-Analysis-and-Insights)
 - [Conclusion](#Conclusion)
 
 ## Introduction
