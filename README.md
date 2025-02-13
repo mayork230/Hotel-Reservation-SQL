@@ -56,4 +56,21 @@ WHERE no_of_adults IS NULL
 group by Booking_ID
 having count(*) >1;
 ```
-  
+- Standardizing Data Formats
+```sql
+update reservation 
+set arrival_date = str_to_date(arrival_date, '%d-%m-%Y');
+```
+- Added Column Booking_Date
+```sql
+alter table reservation
+add column Booking_Date date;
+update reservation
+set Booking_Date = date_sub(arrival_date,interval lead_time Day);
+```
+## SQL Analysis and Insights
+
+
+
+
+
